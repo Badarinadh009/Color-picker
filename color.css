@@ -1,0 +1,56 @@
+.heading{
+    font-family:Roboto;
+    font-weight: bold;
+    margin-top:150px;
+
+}
+.button{
+    height:80px;
+    width:80px;
+    border-radius:10px;
+}
+.e0e0e0{
+    background-color:#e0e0e0;
+    margin-right:20px
+    
+}
+.fcf97{
+    background-color:#6fcf97;
+    margin-right:20px
+
+}
+.ccf2{
+    background-color:#56ccf2;
+    margin-right:20px
+}
+.bb6bd9{
+    background-color:#bb6bd9;
+    margin-right:20px
+}
+.buttons{
+    background-color:black;
+    width:800px;
+    margin-left:350px;
+    border-radius:10px;
+    margin-top:15px;
+
+}
+.background-head{
+    font-size: 40px;
+    color:white;
+
+}
+.fffff{
+    font-size:30px;
+    margin-top:8px;
+    color:#ffffff;
+}
+.para{
+    font-family:Roboto;
+    font-size:30px;
+    padding:20px;
+    margin-left:210px;
+}
+.totalBackground{
+   height:100vh;
+}
